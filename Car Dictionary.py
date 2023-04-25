@@ -1,7 +1,3 @@
-## Assignment: Week 2 Module 2 Critical Thinking
-## Option: Option 2
-
-
 
 from collections import OrderedDict
 # Empty dictionary
